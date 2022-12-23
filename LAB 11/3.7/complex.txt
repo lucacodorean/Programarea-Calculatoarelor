@@ -1,0 +1,1 @@
+Number 1.500000 +2.000000*i are modulul 2.500000 si argumentul 0.927295.

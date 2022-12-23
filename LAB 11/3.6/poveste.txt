@@ -1,0 +1,4 @@
+0 | Ana are mere.
+1 | Ion citeste.
+2 | Luca se joaca.
+3 | Nicoleta face baie.

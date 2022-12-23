@@ -1,0 +1,24 @@
+INITIAL DIRECTORY INFORMATION
+Directory name <luca>
+	Octects <224>
+	File count <4>
+		File name <carte.txt>		Last modified <12/23/2022 17:29:21>
+		File name <ceas.bin>		Last modified <12/23/2022 17:29:24>
+		File name <telefon.bun>		Last modified <12/23/2022 17:29:27>
+		File name <poze.fun>		Last modified <12/23/2022 17:29:31>
+ALPHABETICAL SORTED DIRECTORY INFORMATION
+Directory name <luca>
+	Octects <224>
+	File count <4>
+		File name <carte.txt>		Last modified <12/23/2022 17:29:21>
+		File name <ceas.bin>		Last modified <12/23/2022 17:29:24>
+		File name <poze.fun>		Last modified <12/23/2022 17:29:31>
+		File name <telefon.bun>		Last modified <12/23/2022 17:29:27>
+LAST_MODIFIED SORTED DIRECTORY INFORMATION
+Directory name <luca>
+	Octects <224>
+	File count <4>
+		File name <carte.txt>		Last modified <12/23/2022 17:29:21>
+		File name <ceas.bin>		Last modified <12/23/2022 17:29:24>
+		File name <telefon.bun>		Last modified <12/23/2022 17:29:27>
+		File name <poze.fun>		Last modified <12/23/2022 17:29:31>
